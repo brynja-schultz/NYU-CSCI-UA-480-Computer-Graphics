@@ -11,7 +11,6 @@ rather than oversized frameworks. Projects demonstrate competence with shaders, 
 - **`HW2`** — GLSL shaders, Lighting & shading, Transforms & camera, and OpenGL/GLFW/GLEW.
 - **`HW3`** — OBJ mesh loading, GLSL shaders, Lighting models (Phong/Gouraud), Rasterization, and Transforms & camera.
 - **`HW5`** — GLSL shaders, Lighting & shading, Advanced camera controls, and OpenGL/GLFW/GLEW.
-## How to Build & Run
 
 ## What to Look For (Reviewer Notes)
 
