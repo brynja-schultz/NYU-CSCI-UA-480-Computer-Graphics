@@ -56,7 +56,3 @@ This project is part of my academic and professional coding and design portfolio
 For more projects, visit my [GitHub profile](https://github.com/brynja-schultz).
 
 ---
-
-If you want, I can now make **NYU Intro to Programming and Problem Solving (Python, Fall 2021)** in the exact same style so it matches the others. That one will have many more assignments to list.
-
-Do you want me to proceed?
