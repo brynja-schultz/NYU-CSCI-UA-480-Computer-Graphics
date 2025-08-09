@@ -54,5 +54,3 @@ Example:
 
 This project is part of my academic and professional coding and design portfolio.
 For more projects, visit my [GitHub profile](https://github.com/brynja-schultz).
-
----
