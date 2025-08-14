@@ -31,25 +31,6 @@ This repo includes three major Blender homework projects (HW2, HW3, HW5) and one
 
 ---
 
-## How to Open
-
-Open any `.blend` file in Blender (version used: 3.x recommended).
-Example:
-
-1. Open Blender.
-2. Go to **File > Open**.
-3. Select the desired `.blend` file from the repo.
-
----
-
-## What to Look For
-
-* Clean, organized Blender project files with clear object naming.
-* Thoughtful use of lighting, texture mapping, and camera angles.
-* Demonstrated growth from simple object placement to complete animated scenes.
-
----
-
 ## Portfolio Note
 
 This project is part of my academic and professional coding and design portfolio.
