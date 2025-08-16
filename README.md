@@ -14,9 +14,11 @@ This repo includes three major Blender homework projects (HW2, HW3, HW5) and one
 
 ## Project Highlights
 
-* **Homework 2 — Basic 3D Scene Composition** — Creating and arranging primitive objects with accurate proportions and camera placement.
-* **Homework 3 — Materials and Lighting** — Applying textures, adjusting material properties, and setting up lighting for realistic rendering.
-* **Homework 5 — Animation Project** — Designing and animating a 3D scene with smooth transitions and camera movement.
+* **Assignment 2 — Basic 3D Scene Composition** — Creating and arranging primitive objects with accurate proportions and camera placement.
+* **Assignment 3 — Materials and Lighting** — Applying textures, adjusting material properties, and setting up lighting for realistic rendering.
+* **Assignment 4 — Bedroom Scene Project** — Modeling furniture and household objects in Blender, applying BSDF materials, setting up lighting, and experimenting with denoising and render optimization.
+* **Assignment 5 — Animation Project** — Designing and animating a 3D scene with smooth transitions and camera movement.
+* **Assignment 6 — Research Review: CT2Hair** — Writing a paper and creating a presentation analyzing the research “CT2Hair: High-Fidelity 3D Hair Modeling using Computed Tomography.”
 * **Extra Credit — Creative 3D Project** — Extending course techniques to produce an original modeled and rendered scene.
 
 ---
