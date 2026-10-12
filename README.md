@@ -8,8 +8,6 @@ This repository contains my 3D modeling and animation assignments from **Compute
 The course explored both the theoretical foundations of computer graphics and their application through industry-standard tools.
 This repo includes three major Blender homework projects (HW2, HW3, HW5) and one extra credit project, each focusing on different aspects of 3D design, scene composition, and rendering.
 
-**Tech Stack / Tools:** Blender · 3D Modeling · Lighting & Materials · Animation
-
 ---
 
 ## Project Highlights
@@ -20,20 +18,3 @@ This repo includes three major Blender homework projects (HW2, HW3, HW5) and one
 * **Assignment 5 — Animation Project** — Designing and animating a 3D scene with smooth transitions and camera movement.
 * **Assignment 6 — Research Review: CT2Hair** — Writing a paper and creating a presentation analyzing the research “CT2Hair: High-Fidelity 3D Hair Modeling using Computed Tomography.”
 * **Extra Credit — Creative 3D Project** — Extending course techniques to produce an original modeled and rendered scene.
-
----
-
-## Skills Developed
-
-* Creating and manipulating 3D objects in Blender.
-* Applying and customizing materials and textures.
-* Setting up effective lighting for different visual moods.
-* Rendering high-quality stills and animations.
-* Structuring Blender scenes for clarity and reusability.
-
----
-
-## Portfolio Note
-
-This project is part of my academic and professional coding and design portfolio.
-For more projects, visit my [GitHub profile](https://github.com/brynja-schultz).
